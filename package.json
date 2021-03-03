@@ -40,7 +40,7 @@
     "passport-google-oauth20": "^2.0.0",
     "passport-local": "1.0.0",
     "paypal-rest-sdk": "^1.8.1",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "request": "^2.88.2",
     "shortid": "^2.2.15",
     "superagent": "^3.8.0"
