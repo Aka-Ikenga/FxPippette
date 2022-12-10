@@ -24,7 +24,7 @@
     "debug": "~2.6.9",
     "dotenv": "^8.2.0",
     "email-verifier": "^0.4.1",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "express-session": "^1.17.1",
     "googleapis": "^64.0.0",
     "http-errors": "~1.7.2",
